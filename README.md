@@ -1,7 +1,7 @@
 # whatsapp-beta-android
 bare bones Whatsapp clone, build with on Firebase
 
-#Features
+# Features
 - firebase db, auth
 - user registration and profile persistence
 - chat functionality
