@@ -1,0 +1,2 @@
+com/example/whatsappclone/BuildConfig.java
+ com.example.whatsappclone.BuildConfig

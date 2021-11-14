@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">60040819940-pi2djjhsibhbul5vv1h4vd7b4vi843qm.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://whatsappclone-37edb-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">60040819940</string>
+    <string name="google_api_key" translatable="false">AIzaSyBB3maD17o9wofUZ2C-YmcuzpRXVJyEmug</string>
+    <string name="google_app_id" translatable="false">1:60040819940:android:76766a92e8777cd7cba8f1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBB3maD17o9wofUZ2C-YmcuzpRXVJyEmug</string>
+    <string name="google_storage_bucket" translatable="false">whatsappclone-37edb.appspot.com</string>
+    <string name="project_id" translatable="false">whatsappclone-37edb</string>
+</resources>
